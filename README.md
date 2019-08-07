@@ -1,2 +1,3 @@
 # Python-and-Data-Science
-Data science with python
+Here you can find manipulation on datasets using numpy and pandas libraries
+
